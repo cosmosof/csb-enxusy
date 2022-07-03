@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"H99C":[function(require,module,exports) {
 "use strict";require("./styles.css"),document.getElementById("app").innerHTML='\n<div class="header">\nAfter School STEM and Math of DMV\n</div>\n<div class="content">\n\n<h4>\n  We employ a Multisensory approach to teaching STEM. Our teaching model is Child-centric. Our educators’ mindset focused on shaping a sustainable learning environment.\n</h4>\n\n<div class="image-container">\n<img class="stem-students" src="stem-students.JPG" alt="STEM Students">\n</div>\n</div>\n<div class="footer">\n<span>Phone: 857-928-4527</span>\n<br>\n<span>4400 MacArthur Blvd NW Suite #202 WAshington, DC 20007</span>\n</div>\n';
 },{"./styles.css":"D9Nj"}]},{},["H99C"], null)
-//# sourceMappingURL=/csb-enxusy/src.e3273709.js.map
+//# sourceMappingURL=/csb-enxusy/src.0eefa1a7.js.map
